@@ -29,7 +29,7 @@ Visit: [https://tomy-kawiarnia-warszawa.github.io/toMy-Kawiarnia-Warszawa/](http
 - **Name**: toMy Kawiarnia Warszawa
 - **Phone**: +48 530 381 052
 - **Address**: Al. Jerozolimskie 42, 00-024 Warszawa
-- **Hours**: 
+- **Hours**:
   - Monday - Saturday: 9:00 AM - 8:00 PM
   - Sunday: 12:00 PM - 8:00 PM
 
