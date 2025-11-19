@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://tomy-kawiarnia-warszawa.github.io/toMy-Kawiarnia-Warszawa/sitemap.xml
